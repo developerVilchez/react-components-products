@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding:0;
+  font-family: 'Raleway', sans-serif;
+  box-sizing: border-box;
+ }
+
+.App {
+  width: 400px;
+  outline: 1px solid orange;
+  padding: 10px;
+}
+
+.form {
+    border: 1px solid blue;
+    padding: 2px;
+}
+
+.table {
+  outline: 1px solid greenyellow;
+  width: 100%;
+}
+
+.tr-product {
+  outline: 1px solid red;
+  text-align: center;
+}
+
+.tr-category {
+  outline: 1px solid skyblue;
+}
